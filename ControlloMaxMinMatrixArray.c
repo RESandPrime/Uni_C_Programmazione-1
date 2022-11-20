@@ -51,7 +51,7 @@ int main(){
                 cont++;
             }
         }
-        printf("Nel vettore ci sono %d elementi compresi tra il massimo ed il minimo della riga %d della matrice\n", cont, i);
+        printf("Array has %d elements between maximum and minimum of matrix %d row\n", cont, i);
         puts("");
     
     }
